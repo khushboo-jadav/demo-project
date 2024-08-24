@@ -1,4 +1,4 @@
 # demo-project
 This is my first Git Repositary.
 <br>
-Author - Khushboo Jadav.
+Author - Khushboo(CE)
